@@ -1,0 +1,35 @@
+body{
+    background-color: #ffffff;
+
+}
+.heading{
+    text-align: center;
+    color: #000000;
+    font-family: 'Indie Flower', cursive;
+    padding-top: 20px;
+}
+.links li {
+    display: inline; 
+    padding-left: 300px;
+}
+.social{
+    color: #333333;
+    transition: 0.2s;
+}
+.social:hover{
+    color: #aaaaaa;
+}
+ion-icon{
+    font-size: 40px;
+    text-align: center;
+}
+.para{
+    font-family:  'Indie Flower', cursive;
+    font-size: 28px;
+}
+.heading2{
+    font-family: 'Indie Flower', cursive;
+    font-size: 80px;
+    text-align: center;
+    color: #111111;
+}
